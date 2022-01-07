@@ -1,14 +1,4 @@
-# React Tilt
-
-[![npm version][npm-badge]][npm-url]
-[![npm downloads][downloads-badge]][npm-url]
-[![npm bundle size][size-badge]][npm-url]
-[![CI][build-badge]][build-url]
-[![Codecov Coverage][coverage-badge]][coverage-url]
-[![semantic-release][semantic-badge]][semantic-url]
-[![prettier][prettier-badge]][prettier-url]
-[![TypeScript][typescript-badge]][typescript-url]
-
+# Readme
 _👀 Easily apply tilt hover effect on React components_
 
 ![](demo.gif)
